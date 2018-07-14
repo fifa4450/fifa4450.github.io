@@ -1,0 +1,103 @@
+html {
+	background: url(img/background.jpg) no-repeat center fixed;
+	background-size: cover; 
+}
+#header {
+	color: black
+
+}
+
+#hdblock {
+	border: 37px solid #767ecf;
+	margin: -10px;
+}
+
+#logotype {
+	margin-left: 25px ;
+	margin-right: 0px ;
+	margin-top: -66px ;
+	margin-bottom: 0px ;
+
+}
+
+#officialmatches {
+	border: 20px solid #6f77c5 ;
+	width: 300px;
+	margin-left: 500px ;
+	margin-right: 0px ;
+	margin-top: 4px ;
+	margin-bottom: 0px ;
+}
+
+#textoffmatch {
+	font-family: "EA Font v1.5 by Ghettoshark";
+	font-size: 35px ;
+	color: white ;
+	margin-left: 525px ;
+	margin-right: 0px ;
+	margin-top: -39px ;
+	margin-bottom: 0px ;
+}
+
+#block1 {
+	margin-left: 330px;
+	margin-top: 50px;
+}
+
+#results {
+	margin-left: -21px;
+	margin-top: 0px;
+}
+
+#val {
+	margin-left: 455px;
+	margin-top: -3x;
+}
+
+
+summary {
+	outline: none ;
+}
+
+#news {
+	margin-left: 50px;
+	margin-top: 4px;
+}
+
+#teamleadersagain {
+	margin-left: 150px;
+	margin-top: 0px;
+}
+
+#officialmatchagain {
+	margin-left: 150px;
+	margin-top: 0px;
+}
+
+#liveagain {
+	margin-left: 150px;
+	margin-top: 0px;
+}
+
+
+
+#news1 {
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+#fst {
+	margin-left: 460px;
+	margin-top: 50px;
+}
+
+#tst {
+	margin-left: 460px;
+	margin-top: 5px;
+}
+
+#trst {
+	margin-left: 460px;
+	margin-top: 5px;
+}
+}
