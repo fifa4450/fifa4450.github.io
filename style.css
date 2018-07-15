@@ -2,6 +2,7 @@
  background-color: #C0C0C1;
 }
 
+
 #hdblock {
 	border: 37px solid #767ecf;
 	margin: -10px;
@@ -59,16 +60,6 @@ summary {
 	margin-top: 4px;
 }
 
-#news2 {
-	margin-left: 100px;
-	margin-top: 50px;
-}
-
-#news3 {
-	margin-left: 100px;
-	margin-top: 50px;
-}
-
 #teamleadersagain {
 	margin-left: 150px;
 	margin-top: 0px;
@@ -91,6 +82,16 @@ summary {
 	margin-top: 50px;
 }
 
+#news2 {
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+#news3 {
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
 #fst {
 	margin-left: 460px;
 	margin-top: 50px;
@@ -105,4 +106,55 @@ summary {
 	margin-left: 460px;
 	margin-top: 5px;
 }
+
+
+#match2 {
+	margin-left: 330px;
+	margin-top: 50px;
 }
+
+#txtmatch {	
+   font-family: "EA Font v1.5 by Ghettoshark";
+   font-weight: bold ;
+   font-size:33px;
+   text-align:center;
+   margin-top: -86px;
+   color: #2B2B2B;
+}
+
+#txtmatch2 {	
+   font-family: "EA Font v1.5 by Ghettoshark";
+   font-weight: bold ;
+   font-size:20px;
+   text-align:center;
+   margin-top: -37px;
+   color: #474747;
+}
+
+#resh {	
+   font-family: "Arial";
+   font-weight: bold ;
+   font-size:20px;
+   text-align:center;
+   margin-top: -37px;
+   color: #474747;
+}
+
+#demo {
+  text-align: center;
+  font-size: 30px;
+  margin-top:-25px;
+  font-family: "EA Font v1.5 by Ghettoshark";
+  color: #B23F43;
+}
+
+#results2 {
+	margin-left: -21px;
+	margin-top: 0px;
+}
+
+#val2 {
+	margin-left: 455px;
+	margin-top: -5px;
+}
+
