@@ -1,3 +1,4 @@
+
 #hdblock {
 	border: 37px solid #767ecf;
 	margin: -10px;
@@ -87,10 +88,6 @@ summary {
 	margin-top: 50px;
 }
 
-#news4 {
-	margin-left: 100px;
-	margin-top: 50px;
-
 #fst {
 	margin-left: 460px;
 	margin-top: 50px;
@@ -164,5 +161,10 @@ summary {
 
 #val3 {
 	margin-left: 455px;
+	margin-top: 50px;
+}
+
+#news4 {
+	margin-left: 100px;
 	margin-top: 50px;
 }
