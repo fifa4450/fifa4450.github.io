@@ -1,7 +1,3 @@
-#body {
- background-color: #C0C0C1;
-}
-
 
 #hdblock {
 	border: 37px solid #767ecf;
@@ -110,7 +106,7 @@ summary {
 
 #match2 {
 	margin-left: 330px;
-	margin-top: 50px;
+	margin-top: 20px;
 }
 
 #txtmatch {	
@@ -158,3 +154,12 @@ summary {
 	margin-top: -5px;
 }
 
+#results3 {
+	margin-left: -21px;
+	margin-top: 0px;
+}
+
+#val3 {
+	margin-left: 455px;
+	margin-top: 50px;
+}
